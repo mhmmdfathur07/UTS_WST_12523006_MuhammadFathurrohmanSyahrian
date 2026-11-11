@@ -29,7 +29,6 @@
 
 ## E. Pemakaian kecerdasan buatan (jika digunakan)
 - Nama alat: GitHub Copilot.
-- Pertanyaan/instruksi yang diberikan: periksa seluruh butir checklist aplikasi dan pastikan benar.
 - Bagian jawaban yang diterapkan: penyelarasan endpoint produk dan selector tombol, perbaikan perhitungan total, serta penghapusan variabel tidak terpakai.
 - Cara memeriksa apakah saran tersebut benar: jalankan 7 tes otomatis, `npm run quality:check`, dan uji tampilan serta tombol di browser.
 
